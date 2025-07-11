@@ -16,7 +16,7 @@ timezone: Europe/Amsterdam
 
 title: Feuneksrost # the main title
 
-tagline: The blog and about me for Tristan Kamp # it will display as the subtitle
+tagline: Tristan Kamp's little place on the world wide web. # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A personal website for Tristan Kamp hosted via Jekyll.
