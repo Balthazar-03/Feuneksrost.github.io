@@ -65,7 +65,7 @@ Servicedesk Intern • Municipality of Hoorn • Hoorn, Noord-Holland<br>
 Servicedesk Intern • Art of Automation • Hoorn, Noord-Holland<br>
 
 --- --- --- Personal Projects --- --- ---<br>
-The website: https://www.feuneksrost.eu<br>
+My personal website: [**Feuneksrost.eu**](https://www.feuneksrost.eu/)<br>
 Home-lab with personal firewall and a multitude of webapps.<br>
 
 # Competences
