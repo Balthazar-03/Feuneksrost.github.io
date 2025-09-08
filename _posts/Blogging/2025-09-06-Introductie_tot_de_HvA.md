@@ -11,10 +11,9 @@ tags:
 pin: false
 math: false
 image:
-  path: /assets/img/path/to/image
-  lqip: data:image/webp;base64,base64versionOfTheImage-NotSureIfNeccesary
-  alt: A schedule of the Tune In event showing what happened at what approximate time frame using a snaking two way road.
-obsidianUIMode: live
+  path: assets/img/Blogging/Tune_In_dag_één.jpg
+  lqip: data:image/jpg
+  alt: A foto of the schedule of the Tune In event showing what happened at what approximate time frame using a snaking two way road.
 ---
 Actual file name: 2025-09-06-Introductie_tot_de_HvA.md
 
